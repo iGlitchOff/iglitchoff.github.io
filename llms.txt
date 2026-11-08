@@ -1,17 +1,20 @@
 # iGlitchOff
 
-> iGlitchOff (@iGlitchOff) es un streamer y creador de contenido colombiano. Transmite Minecraft en vivo en Kick desde el 12 de diciembre de 2024. Slogan: Condenado al Éxito.
+> iGlitchOff (@iGlitchOff) es un streamer y creador de contenido colombiano. Transmite Minecraft en vivo en Kick desde el 12 de diciembre de 2024, de martes a sábado.
 
 ## Datos
 - Nombre artístico: iGlitchOff
 - Nombre real: Juan David Rodríguez Hernández
 - Nacionalidad: colombiana
-- Plataforma principal: Kick
-- Contenido: Minecraft
-- Horario de directo: 7:30 p. m. a 9:30 p. m., hora de Colombia (UTC-5)
+- Plataforma principal: Kick (más de 1.300 seguidores en noviembre de 2026)
+- Contenido: Minecraft 1.8.9 (arenas PvP, Skywars y Bedwars)
+- Días y horario de directo: martes a sábado, 7:30 p. m. a 9:30 p. m., hora de Colombia (UTC-5); domingos y lunes no transmite
 - Idioma: español
 - Usuario en todas las redes: @iGlitchOff
 - Contacto: iglitchoff.contacto@gmail.com
+
+## Próximo evento
+- Face reveal: sábado 21 de noviembre de 2026, 5:30 p. m. (hora de Colombia), en vivo en Kick, duración aproximada de 4 horas
 
 ## Perfiles oficiales
 - [Kick](https://kick.com/iGlitchOff)
@@ -19,7 +22,9 @@
 - [TikTok](https://www.tiktok.com/@iGlitchOff)
 - [X](https://x.com/iGlitchOff)
 - [Instagram](https://www.instagram.com/iglitchoff)
+- [Threads](https://www.threads.com/@iGlitchOff)
 - [Todos los links](https://link.me/@iGlitchOff)
 
-## Sitio
+## Sitio y wiki
 - [Página principal](https://iglitchoff.github.io/)
+- [Wiki en Fandom](https://iglitchoff.fandom.com/es/wiki/Wiki_iGlitchOff)
