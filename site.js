@@ -5,6 +5,8 @@ if(s<=0){cd.innerHTML="El face reveal ya pasó. Los clips están en YouTube.";re
 var v=[[Math.floor(s/86400),"días"],[Math.floor(s%86400/3600),"horas"],[Math.floor(s%3600/60),"min"],[s%60,"seg"]];
 cd.innerHTML=v.map(function(x){return"<div>"+x[0]+"<small>"+x[1]+"</small></div>"}).join("");setTimeout(tick,1e3)}
 tick();
+var pb=document.getElementById("pb"),pl=document.getElementById("pl");
+if(pb)pb.onclick=function(){pl.style.padding="0";pl.innerHTML='<iframe src="https://player.kick.com/iGlitchOff" title="Directo de iGlitchOff en Kick" allowfullscreen></iframe>'};
 function ap(n){var st=n<1000?50:n<10000?100:1000;return"~"+(Math.round(n/st)*st).toLocaleString("es-CO")}
 var f=document.getElementById("sf"),m=document.getElementById("sm");
 if(m){m.textContent=Math.floor((Date.now()-Date.parse("2024-12-12"))/2629800000)}
